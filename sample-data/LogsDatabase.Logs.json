@@ -1,0 +1,56 @@
+[{
+  "_id": "38456f13-e3f6-45d5-a23e-978d4f92f9c1",
+  "LogLevel": "Information",
+  "LogMessage": "Event abc deleted at Thursday, 18 July 2024"
+},
+{
+  "_id": "28ac7283-1cd6-46f6-8a38-ed6a9aa72328",
+  "LogLevel": "Information",
+  "LogMessage": "Event Some test event deleted at Thursday, 18 July 2024"
+},
+{
+  "_id": "5abcde4b-47a0-47d7-9e76-401a6f42677e",
+  "LogLevel": "Information",
+  "LogMessage": "User Chaudhary Ashran created at Thursday, 18 July 2024"
+},
+{
+  "_id": "a8e9e2ce-a17e-4306-b5d1-7edfa650a362",
+  "LogLevel": "Information",
+  "LogMessage": "User Chaudhary Ashran added to role Employee at Thursday, 18 July 2024"
+},
+{
+  "_id": "3f2g1h0i-99a0-4f5e-9a8b-67d8e9f0b1f2",
+  "LogLevel": "Information",
+  "LogMessage": "User Pratham Sapra logged in at Thursday, 18 July 2024"
+},
+{
+  "_id": "2g1h0i1j-88a9-4f5e-9a8b-78d9e0f1c2g3",
+  "LogLevel": "Information",
+  "LogMessage": "User Pratham Sapra logged out at Thursday, 18 July 2024"
+},
+{
+  "_id": "7b6c5d4e-32a1-4f5e-9a8b-23d4e5f6a7b8",
+  "LogLevel": "Critical",
+  "LogMessage": "Unauthorized access attempt detected at Thursday, 18 July 2024"
+},
+{
+  "_id": "5e1c2f3d-65a4-4d3f-8a7b-12b3d4e5f6a7",
+  "LogLevel": "Information",
+  "LogMessage": "Event xyz created at Thursday, 18 July 2024"
+},
+{
+  "_id": "6f2d3g4e-76b5-4e4f-8a7b-23c4d5e6f7a8",
+  "LogLevel": "Information",
+  "LogMessage": "Event test event created at Thursday, 18 July 2024"
+},
+{
+  "_id": "7g3e4h5f-87c6-4f5f-8a7b-34d5e6f7a8b9",
+  "LogLevel": "Information",
+  "LogMessage": "Event alert event created at Thursday, 18 July 2024"
+},
+{
+  "_id": "8h4f5i6g-98d7-4f6f-8a7b-45d6e7f8a9c0",
+  "LogLevel": "Information",
+  "LogMessage": "Event critical alert created at Thursday, 18 July 2024"
+}
+]
